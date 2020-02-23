@@ -17,9 +17,12 @@
 
 ## ¿Cómo funciona?
 
-El proyecto está dividido en dos: la parte backend y la parte frontend, los puedes encontrar en sus respectivas carpetas: `wc-backend` y `wc-frontend`. En los submódulos de cada uno tienes un **README** que te dará toda la información necesaria para poder arrancar individualmente cada uno.
+El proyecto está dividido en dos: la parte backend y la parte frontend, los puedes encontrar en sus respectivas carpetas: `wc-backend` y `wc-frontend`. Cada una de las carpetas está alojada en un repositorio distinto de GitHub.
 
-Sin embargo, el proceso se puede resumir de la siguiente manera:
+* wc-backend: `https://github.com/lb12/wc-backend`
+* wc-frontend: `https://github.com/lb12/wc-frontend`
+
+En los submódulos de cada uno tienes un **README.md** que te dará toda la información necesaria para poder arrancar individualmente cada uno. Sin embargo, el proceso se puede resumir de la siguiente manera:
 
 * Clonar este repositorio
 * En cada una de las carpetas instalar todas las dependencias utilizando `$ npm install`.
