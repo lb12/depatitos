@@ -1,0 +1,6 @@
+[submodule "wc-backend"]
+	path = wc-backend
+	url = https://github.com/lb12/wc-backend
+[submodule "wc-frontend"]
+	path = wc-frontend
+	url = https://github.com/lb12/wc-frontend
